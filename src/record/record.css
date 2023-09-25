@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'yg-jalnan';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.recorddiv{
+    font-family: 'yg-jalnan';
+    margin-left: 24vw;
+    margin-top: 5vh;
+}
+
+.record-mentdiv {
+    width: 60vw;
+    height: 85vh;
+    background-color: rgb(221, 239, 243);
+    border-radius: 30px;
+    padding: 3px;
+    border: solid 3px rgb(156, 195, 214) ;
+}
+.detect {
+    background-color: brown;
+    width:8vw;
+    padding:13px;
+    font-size: 18px;
+    height : 6vh;
+    border-radius: 30px;
+    color : white;
+    margin-left: 47vw;
+    margin-top: -5vh;
+    text-align: center;
+}
+.detect-good{
+    background-color: rgb(16, 111, 29);
+    width:8vw;
+    padding:13px;
+    font-size: 18px;
+    height : 6vh;
+    border-radius: 30px;
+    color : white;
+    margin-left: 47vw;
+    margin-top: -5vh;
+    text-align: center;
+}
+.ring{
+    margin-left: 3vw;
+}
+.record-ment{
+    color: black;
+    margin-top: 2vh;
+    
+    margin-left: 5vw;
+}
+
+.backrecord{
+    width: 24vw;
+    height: 7vh;
+    border-radius: 30px;
+    background-color: bisque;
+    font-family: 'yg-jalnan';
+    margin-top: 2vh;
+    float: left;
+}
+.recordbottom{
+    display: flex;
+    flex-direction: row;
+}
+.star{
+    color: black;
+    margin-left: 20vw;
+    margin-top: 3vh;
+    font-size: 20px;
+}
+
+.pot{
+    background-color: rgb(230, 235, 235);
+    margin : 0 auto;
+    text-align: center;
+    height: 5vh;
+    width: 30vw;
+    color: black;
+    margin-left: 12vw;
+    margin-top: 3vh;
+    font-size: 15px;
+    margin-bottom: 3vh;
+}

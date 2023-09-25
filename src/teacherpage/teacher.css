@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'TTTtangsbudaejjigaeB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2212@1.0/TTTtangsbudaejjigaeB.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'KCC-Ganpan';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/KCC-Ganpan.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'yg-jalnan';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.teacherdiv{
+    font-family: 'yg-jalnan';
+    margin-left: 8vw;
+    margin-top: 5vh;
+}
+
+.teacher-info{
+    color: rgb(106, 104, 104);
+    font-size: 15px;
+    
+    
+}
+.teacher-name{
+    color: black;
+}
+
+.teacher-top {
+    display: flex;
+    flex-direction: row;
+}
+
+.teacher-connect{
+    width: 8vw;
+    height: 9vh;
+    border-radius: 30px;
+    background-color: bisque;
+    font-family: 'yg-jalnan';
+    margin-top: 10vh;
+    font-size: 30px;
+    padding: 3px;
+    margin-left: 10vw;
+}
+
+.teacher-chat{
+    margin-left: 1vw;
+    width: 8vw;
+    height: 9vh;
+    border-radius: 30px;
+    background-color: bisque;
+    font-family: 'yg-jalnan';
+    margin-top: 10vh;
+    font-size: 30px;
+    padding: 3px;
+}
+
+.teacher-exit {
+    margin-left: 1vw;
+    width: 8vw;
+    height: 9vh;
+    border-radius: 30px;
+    background-color: bisque;
+    font-family: 'yg-jalnan';
+    margin-top: 10vh;
+    font-size: 30px;
+    padding: 3px;
+}

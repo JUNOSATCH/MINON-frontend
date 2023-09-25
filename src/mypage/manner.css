@@ -1,0 +1,90 @@
+font-face {
+    font-family: 'yg-jalnan';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.mypage-name{
+    color: black;
+    margin-left: 5vw;
+    margin-top: 10vh;
+}
+.mypage-top{
+    display: flex;
+    flex-direction: column;
+    font-family: 'yg-jalnan';
+}
+.mypage-bottom{
+    margin-top: 3vh;
+    background-color: rgb(210, 230, 230, 0.5);
+    width: 75%;
+    padding: 3%;
+    border-radius: 30px;
+    height: 120vh;
+    font-family: 'yg-jalnan';
+}
+
+.know {
+    width: 50vw;
+}
+
+.mypage-info{
+    margin-top: 2vh;
+    display: flex;
+    flex-direction: row;
+}
+.mannerdiv{
+    margin-top: -15vh;
+    margin-left: 20vw;
+}
+.backpart {
+    width: 39vw;
+    height: 8vh;
+    border-radius: 50px;
+    background-color: rgb(247, 247, 223);
+    position: relative;
+    margin-top: 2vw;
+    border: solid 2px gray;
+}
+
+.frontpart{
+    width: 30vw;
+    border-radius: 50px;
+    background-color: rgb(228, 148, 148);
+    position: absolute ;
+    top:1.2vh;
+    left: 1vw;
+    text-align: center;
+    height: 5vh;
+    border: solid 2px gray;
+
+
+}
+.alertmsg{
+    color:brown;
+    font-size: 15px;
+    margin-left: 24vw;
+    margin-top: 1vh;
+}
+
+.record-man{
+    margin-left: 1vw;
+}
+.mannertext{
+    font-family: 'yg-jalnan';
+    margin-top: 0.1vh;
+    color: black;
+}
+
+.mypage-profileimg{
+    margin-left: 5vw;
+    margin-top: 5vh;
+    width: 12vw;
+    height: 12vw;
+    border: solid 3px black;
+    border-radius: 50%;
+}
+
+.mypage-div{
+    margin-left: 20vw;
+}
